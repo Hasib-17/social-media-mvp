@@ -61,7 +61,7 @@ h1 { font-size: 1.25rem; margin: 0 0 1rem; }
 .header-user { display: flex; align-items: center; gap: 12px; font-size: 0.9rem; min-width: 0; }
 .header-user span { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
 
-main { padding-top: 20px; padding-bottom: 40px; }
+main.container { padding-top: 20px; padding-bottom: 40px; }
 
 /* Cards and buttons */
 .card {
